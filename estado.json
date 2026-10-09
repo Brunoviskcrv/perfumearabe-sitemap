@@ -1,4 +1,16 @@
 {
+ "https://www.perfumearabe.com/blog/posts/al-noble-wazeer-x-safeer-af35026e0971/": {
+  "hash": "updated_at=2026-10-08T17:56:31.129Z",
+  "lastmod": "2026-10-08"
+ },
+ "https://www.perfumearabe.com/blog/posts/asad-lattafa-e-bom-eb9c35da875c/": {
+  "hash": "updated_at=2026-10-09T08:56:57.418Z",
+  "lastmod": "2026-10-09"
+ },
+ "https://www.perfumearabe.com/blog/posts/club-de-nuit-intense-man-inspirado-em-4c119266d56c/": {
+  "hash": "updated_at=2026-10-09T09:15:30.532Z",
+  "lastmod": "2026-10-09"
+ },
  "https://www.perfumearabe.com/blog/posts/como-passar-perfume-5a41b3db5064/": {
   "hash": "updated_at=2026-10-01T03:44:15.438Z",
   "lastmod": "2026-10-01"
@@ -6,6 +18,10 @@
  "https://www.perfumearabe.com/blog/posts/como-saber-se-o-perfume-e-original-00797dac918f/": {
   "hash": "updated_at=2026-10-07T14:50:58.443Z",
   "lastmod": "2026-10-07"
+ },
+ "https://www.perfumearabe.com/blog/posts/como-usar-perfume-arabe-no-calor-a92c3dca4321/": {
+  "hash": "updated_at=2026-10-08T17:39:06.976Z",
+  "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/blog/posts/contratipo-x-original-c614843fa59f/": {
   "hash": "updated_at=2026-10-05T04:46:46.747Z",
@@ -116,8 +132,8 @@
   "lastmod": "2026-10-04"
  },
  "https://www.perfumearabe.com/marca-al-wataniah/": {
-  "hash": "848b8ff9fe852854f1c5c8693dd119f250773ee16929ea611287fd506f5c02ba",
-  "lastmod": "2026-10-07"
+  "hash": "67d2831c1c3ef47d2fd392efcda81bf8d18bfd800a73a10220e8de65c6c6cd8e",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/marca-armaf/": {
   "hash": "ed5d56297633bca7db8d10e4ce2271bf9b204a45e98773553000877c069fb223",
@@ -204,8 +220,8 @@
   "lastmod": "2026-10-07"
  },
  "https://www.perfumearabe.com/perfume-arabe-unissex/": {
-  "hash": "2610f65669473e2d11a5122ec7ea4cb69e62c074d965db1ffe6b743d47526b68",
-  "lastmod": "2026-10-07"
+  "hash": "af92f2bf503401f0398844cc4b50cde1d985569c6862c7ece8f65de335410d4d",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/perfume-arabe/": {
   "hash": "04afc4fc1113de52809bd610a1fc9959b7497a0b6ce0cc2d67253421b110ea34",
@@ -312,8 +328,8 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/al-wataniah-sabah-al-ward-sugar/": {
-  "hash": "fa14970b92252be843696cbe8a0f36cf7cce0da7fe75c919ea17e6318f63c354",
-  "lastmod": "2026-10-07"
+  "hash": "0c663b3a8c75472a649a300eab55cbf2dc652885b8fa2ba83f99246638f41794",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/al-wataniah-sabah-al-ward-valentine/": {
   "hash": "a819e1f6b9ae5e15691a33a8208ff7820ef80446030caa04160f77b724393e69",
@@ -360,12 +376,12 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/armaf-club-de-nuit-intense-man/": {
-  "hash": "01b8559460ac2de9f5e340a55a61a54133d0a87e10e076802cc7b7548090e68a",
-  "lastmod": "2026-10-08"
+  "hash": "38172c87fbcb73d703acac003389e97eb61cf76d67f8be5d5841ef53250f30c3",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/armaf-club-de-nuit-intense-overdose/": {
-  "hash": "a45ea0e5a002be07f6dd316e16ec45a98d81c7120338364c70a349c06bbeb57c",
-  "lastmod": "2026-10-08"
+  "hash": "3af65f41a36f499ef169644cab630fbd07438a9ef9f485750f33e3b0fd1eb990",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/armaf-club-de-nuit-maleka/": {
   "hash": "3303fc8a6b34d8a31ef3e24d4cb86c6b29d10423289e54c06bd2b76cac517d10",
@@ -384,8 +400,8 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/armaf-club-de-nuit-untold/": {
-  "hash": "c8de50649ff20c7cf5f254dfcb36498bc80ae9bb105d883a4dee90159cf0e5d6",
-  "lastmod": "2026-10-07"
+  "hash": "b80a68bfcbc9931938c25ff10c27ad43485cad7f90da13535d3b2a968cd2eea6",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/armaf-club-de-nuit-urban-man-elixir/": {
   "hash": "811cff80b675e95d8662453bf544748c3a37853483cced619027f9f64daa1615",
@@ -452,8 +468,8 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/armaf-yum-yum/": {
-  "hash": "bbae240bef57b8b4485eb33333ba5cef6ce8936f57a76fe81a688e784a3cc2a9",
-  "lastmod": "2026-10-07"
+  "hash": "3fd18b095667b2648fbebc1353c828f5557badeac1de53feb2366f35bb82d673",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/asad-zanzibar-limited-edition-lattafa-eau-de-parfum-100ml/": {
   "hash": "565be3990c8a74f819425738eac716e007deeb1cf56a7894e0bd21b49da10cc1",
@@ -508,8 +524,8 @@
   "lastmod": "2026-10-07"
  },
  "https://www.perfumearabe.com/produtos/cedrus-blanc/": {
-  "hash": "cf8ce532659c0b793ebe8f1947257bc236396dc389d5fec182081d0e3566a6c2",
-  "lastmod": "2026-10-08"
+  "hash": "9b1793ea8b58d4d291ca495ff3dbab2ca2d9c843c0066d179c78bb6e0f8b41dd",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/club-de-nuit-elite-armaf-eau-de-parfum-masculino-100ml/": {
   "hash": "1aec67526bc0e1c5c78e366fe1e6f0ef3853a68c2c9654c027a1e452a2ff84c5",
@@ -552,8 +568,8 @@
   "lastmod": "2026-10-07"
  },
  "https://www.perfumearabe.com/produtos/french-avenue-spectre-ghost/": {
-  "hash": "3db75cb83dc8e257862f6bac9f18e08c72f9018e1c734b6e4295df556bd6b651",
-  "lastmod": "2026-10-08"
+  "hash": "a963c5d128190a09d059ba4fdb0a14082f62981587a3ce675c25703c304afa07",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/french-avenue-spectre-wraith/": {
   "hash": "a3dfcb51594666b55737286c5cf8d47e61c7ceb2f9c689a57edaa3e3a2c54259",
@@ -752,8 +768,8 @@
   "lastmod": "2026-10-07"
  },
  "https://www.perfumearabe.com/produtos/lattafa-badee-al-oud-noble-blush/": {
-  "hash": "086a158c0eff1feee7497fdeddedfb93569eb05b4cf58abd55d699463e5b02b4",
-  "lastmod": "2026-10-07"
+  "hash": "374d36f4ed7d3082d5c5e3b39b8c9af0b61fc6c01b4f69ea350f8e813a0e0bee",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/lattafa-badee-al-oud-sublime-25ml/": {
   "hash": "54db0733f920dd4a6a33523163c98176915e637866b0bf0a4e9e22bf11678eb4",
@@ -864,8 +880,8 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/lattafa-musamam/": {
-  "hash": "b14beab4ec5c4e2e376cd4ba9f0073c83db731bc8e80c26682eaa7bd15c121c9",
-  "lastmod": "2026-10-07"
+  "hash": "b7ad2c9936bec8f383f64d60fea708ee302df9b23a1b23c13a37c2d56bb097f1",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/lattafa-musk-sugar-plum/": {
   "hash": "b12dc0a39b1c9145b6846c9e71047f94e261cce3ac290e64a82d773539458af2",
@@ -924,8 +940,8 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/lattafa-the-kingdom-man/": {
-  "hash": "1b5faa6affc5c5087ef7ec1b79263879b8c4d0dfddbeb09374775a223d423ae7",
-  "lastmod": "2026-10-08"
+  "hash": "aff816d240cabe2f617d1864c54d1b90453f91aae56a5ab6356e5b10a4bf99b1",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/lattafa-the-kingdom/": {
   "hash": "636ef1c3f4eec72d3e8684612313968a23fe807e685adabc2e1e6dcc3e87e056",
@@ -1168,8 +1184,8 @@
   "lastmod": "2026-10-07"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-amazonica-by-jb/": {
-  "hash": "d9843eca73f70f32c971e00d6fbba187377da482456041b5406d4a01daafe5c8",
-  "lastmod": "2026-10-07"
+  "hash": "b13680d67861af17aabcaa54e1c3ff6ce4d1633d63d1591e55f5a7d466eed80d",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-aquatica/": {
   "hash": "eadcde7997c8111d190256863adf9c62b7e181cfde9a84c25fa26fd4b624949f",
@@ -1204,16 +1220,16 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-kiss/": {
-  "hash": "9737bc16adde161794f3ee246ac9c40ee82831c534491215db64a385c66eb624",
-  "lastmod": "2026-10-07"
+  "hash": "ed942de61c557332b783c6bb3d09b7e227e61ace180e3ffe74ec8bfdd0f6d703",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-lion/": {
   "hash": "365388b9f2c19c588a3fdfd023b02956849551743520ba7b99e2ba5a26882273",
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-nocturno-elixir/": {
-  "hash": "d88fbb897d2dbccbd589b6248a0b870b6ea96317b3b34a68457fa014e7378531",
-  "lastmod": "2026-10-07"
+  "hash": "951705251761dc54a3da64693b3309002bd22969f797509a96d5e87d055c8e7a",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-obsidian/": {
   "hash": "2ae28df5bec92df0eb0f78b9f8807aee48990ac1ef3f6cb4c4e90a4a5b207266",
@@ -1228,20 +1244,20 @@
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-tiger/": {
-  "hash": "5582b822214a8a1dfc17f1088965433d3d1c393e493ffc75ff4010f6083cefe8",
-  "lastmod": "2026-10-07"
+  "hash": "68917fde5290762c2d6d17bc201a0da2109b2274bc5ba564cb0e9f716bea09ac",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-tropical-vibe/": {
   "hash": "51416a8a28850cc6d13fb0bf469f5af0a560bf0d7c2b16f43b87774df5460610",
   "lastmod": "2026-10-08"
  },
  "https://www.perfumearabe.com/produtos/rayhaan-valhalla/": {
-  "hash": "3329134cb96d7bbc9cdcf3a8d59b596deb4f3a630161c9913d64e92aa29502d8",
-  "lastmod": "2026-10-07"
+  "hash": "7474be414b4262bb3cec3084dfd91ffe9c42110fd5525438ef912ada307e8f4d",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/riiffs-freeze-in-flames/": {
-  "hash": "5a65a454a0fe5a58a0b8baaa570b2b31b633da77d2895c7706565a1df128f86a",
-  "lastmod": "2026-10-07"
+  "hash": "80918338c573381cfd12127246df5a2afb4a75ff664f34daf04938a59854c10d",
+  "lastmod": "2026-10-09"
  },
  "https://www.perfumearabe.com/produtos/riiffs-momento/": {
   "hash": "eb64450d838215ab83f7c68c27acec2cdb56a4dc74f93061cd62a99662c64a0f",
